@@ -14,14 +14,14 @@ Then visit <http://localhost:8181>.
 
 ## Structure
 
-- `index.html` — home page
-- `research.html` — research page
-- `teaching.html` — teaching page
-- `publications.html` — publications page
-- `presentations.html` — presentations page
-- `styles.css` — layout, responsive behavior, and print styling
-- `favicon.svg` — browser icon
-- `assets/` — photographs and other static files
+- `index.html`: home page
+- `research.html`: research page
+- `teaching.html`: teaching page
+- `publications.html`: publications page
+- `presentations.html`: presentations page
+- `styles.css`: layout, responsive behavior, and print styling
+- `favicon.svg`: browser icon
+- `assets/`: photographs and other static files
 
 The site uses only HTML and CSS, so it can be hosted on nearly any static web host.
 

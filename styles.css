@@ -291,6 +291,10 @@ nav a[aria-current="page"]:visited {
   font-size: 0.82rem;
 }
 
+.patent-group {
+  margin-top: 3rem;
+}
+
 .teaching-copy {
   max-width: 760px;
   padding-top: 0.6rem;
